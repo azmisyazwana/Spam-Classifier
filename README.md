@@ -10,12 +10,12 @@ Web aplikasi untuk mendeteksi spam
 
 ## Screenshots
 
-![App Screenshot](/screenshot/ss1.png))
-![App Screenshot](/screenshot/ss2.png))
-![App Screenshot](/screenshot/ss3.png))
-![App Screenshot](/screenshot/ss4.png))
-![App Screenshot](/screenshot/ss5.png))
-![App Screenshot](/screenshot/ss6.png))
+![App Screenshot](/screenshot/ss1.png)
+![App Screenshot](/screenshot/ss2.png)
+![App Screenshot](/screenshot/ss3.png)
+![App Screenshot](/screenshot/ss4.png)
+![App Screenshot](/screenshot/ss5.png)
+![App Screenshot](/screenshot/ss6.png)
 
 
 
